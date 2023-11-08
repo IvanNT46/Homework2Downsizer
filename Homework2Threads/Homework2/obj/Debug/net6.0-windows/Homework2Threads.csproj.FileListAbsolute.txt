@@ -1,0 +1,17 @@
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\bin\Debug\net6.0-windows\Homework2Threads.exe
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\bin\Debug\net6.0-windows\Homework2Threads.deps.json
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\bin\Debug\net6.0-windows\Homework2Threads.runtimeconfig.json
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\bin\Debug\net6.0-windows\Homework2Threads.dll
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\bin\Debug\net6.0-windows\Homework2Threads.pdb
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\obj\Debug\net6.0-windows\Homework2.Form1.resources
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\obj\Debug\net6.0-windows\Homework2Threads.Properties.Resources.resources
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\obj\Debug\net6.0-windows\Homework2Threads.csproj.GenerateResource.cache
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\obj\Debug\net6.0-windows\Homework2Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\obj\Debug\net6.0-windows\Homework2Threads.AssemblyInfoInputs.cache
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\obj\Debug\net6.0-windows\Homework2Threads.AssemblyInfo.cs
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\obj\Debug\net6.0-windows\Homework2Threads.csproj.CoreCompileInputs.cache
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\obj\Debug\net6.0-windows\Homework2Threads.dll
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\obj\Debug\net6.0-windows\refint\Homework2Threads.dll
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\obj\Debug\net6.0-windows\Homework2Threads.pdb
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\obj\Debug\net6.0-windows\Homework2Threads.genruntimeconfig.cache
+C:\Users\Иван Тончев\source\repos\Homework2Threads\Homework2\obj\Debug\net6.0-windows\ref\Homework2Threads.dll
